@@ -1,2 +1,7 @@
-# hello-world
-1st repository
+//# hello-world
+//1st repository
+#include<iostream>
+  int main(){
+  std::cout<<"Hello world.";<<endl;
+  return 0;
+  }
